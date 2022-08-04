@@ -1,0 +1,31 @@
+1850-2099
+-----------------------
+NorESM1-ME     = 91.7042;
+GFDL-ESM2M     = 81.1630;
+GFDL-ESM2G     = 67.8808;
+CESM1-BGC      = 65.9326;
+MPI-ESM-LR     = 53.5082;
+IPSL-CM5A-MR   = 53.3074; 
+IPSL-CM5A-LR   = 49.7982;
+HadGEM2-CC     = 55.8938; 
+HadGEM2-ES     = 52.8393; 
+MIROC-ESM-CHEM = 42.3232;
+MIROC-ESM      = 43.0742;
+-------------------------
+
+2090s
+-----------------------
+NorESM1-ME     = 1.0065;
+GFDL-ESM2M     = 0.8372;
+GFDL-ESM2G     = 0.6208;
+CESM1-BGC      = 0.5923;
+MPI-ESM-LR     = 0.4523;
+IPSL-CM5A-MR   = 0.4416; 
+IPSL-CM5A-LR   = 0.4256;
+HadGEM2-CC     = 0.3070; 
+HadGEM2-ES     = 0.3001; 
+MIROC-ESM-CHEM = 0.2643;
+MIROC-ESM      = 0.2436;  
+-------------------------
+                          
+
