@@ -1,4 +1,4 @@
-# GA North Atlantic 2d
+# Genetic algorithm for regional optimisation of Emergent Constraints in the surface North Atlantic
 
 This software is related to the COLUMBIA project and the 2d optimization in the publication 'Gulf Stream and interior western boundary volume transport as key regions to constrain the future North Atlantic Carbon Uptake' by Nadine Goris et al.
 
