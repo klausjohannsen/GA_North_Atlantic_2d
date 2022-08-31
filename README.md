@@ -10,6 +10,9 @@ It is funded by Research Council of Norway (RCN) and led by **Research Professor
 # Authors
 The developer is **Chief Scientist Klaus Johannsen**, also at NORCE.
 
+# Installation
+Download and unzip the software archive, move into the software directory.
+
 # Usage
 ```
 python3 run.py
