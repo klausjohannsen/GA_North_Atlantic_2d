@@ -10,13 +10,6 @@ It is funded by Research Council of Norway (RCN) and led by **Research Professor
 # Authors
 The developer is **Chief Scientist Klaus Johannsen**, also at NORCE.
 
-# Installation
-
-```
-git clone git@gitlab.norceresearch.no:columbia/GA_North_Atlantic_2d.git
-cd GA_North_Atlantic_2d
-```
-
 # Usage
 ```
 python3 run.py
